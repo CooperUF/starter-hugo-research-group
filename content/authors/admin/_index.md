@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Binyamin (Benny) Cooper
+title: Binyamin Cooper
 
 # Is this the primary user of the site?
 superuser: true
