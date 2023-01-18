@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Binyamin Cooper
+title: Binyamin (Benny) Cooper
 
 # Is this the primary user of the site?
 superuser: true
@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'bcoop@cmu.edu'
+    link: 'mailto:bcoop@cmu.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/BinyaminCooper
