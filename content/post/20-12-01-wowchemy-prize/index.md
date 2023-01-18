@@ -1,14 +1,20 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Warrington College of Business, University of Florida - Ph.D. Outstanding Teaching Award 
+date: 2019-04-10
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Ph.D. student Benny Cooper awarded Warrington College of Business Ph.D. Teaching Awards for the fall 2018 semester.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+GAINESVILLE, Fla. – The award is presented by the Teaching & Learning Center at Warrington to recognize outstanding graduate student teaching and instructional innovation. The recipient for each semester is selected by the Warrington Teaching Committee.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+Cooper is a fourth-year Ph.D. candidate in Warrington’s Department of Management. His research focuses on a variety of topics including incivility, cognition and psychological resilience. Most recently, he’s been focused on how organizations can help individuals cope with workplace rudeness. He received his master’s in social-organizational psychology from Bar-Ilan University in Israel and his bachelor’s degree in psychology from the Hebrew University of Jerusalem in Israel.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+“I would like to express my deepest gratitude to the Warrington College of Business for the award,” Cooper said. “Throughout my time at the department of management, I’ve considered myself fortunate to receive an incredible amount of support and feedback from my advisor Prof. Amir Erez and fellow Ph.D. students. The open and friendly exchange of ideas in our department has been invaluable in helping me develop my teaching philosophy.”
+
+Cooper taught Human Resource Management in the fall 2018 semester. The course is designed to provide students with an overview of human resource management (HRM).
+
+“If an organization wants good people, it must practice good HRM,” Cooper said. “As part of the course, students were required to combine theories with practices, which culminated in a final group project that asked them to apply their understanding of HRM practices by making recommendations about good HR policies for a job of their choice.”
+
+Link: https://news.warrington.ufl.edu/awards/management-and-information-systems-operations-management-phd-students-honored-with-teaching-awards/
