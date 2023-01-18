@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+I am an experienced quantitative organizational researcher with 8+ years of experience, primarily focused in issues that affect how individuals and groups perceive, process and overcome challenging interpersonal conversaations. My interests lie in experimental research design, data analysis, quantitative methods, with the goal of promoting adaptive coping in the face of organizational adversity and a more resilient workforce. Prior to starting my Ph.D., I worked for 2-years as an organizational consultant, responsible for multiple yearly performance and satisfaction evaluation processes.
