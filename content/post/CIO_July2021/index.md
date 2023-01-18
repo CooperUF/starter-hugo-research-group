@@ -12,7 +12,8 @@ Just as a happy and motivated IT team tends to be efficient, innovative, and hig
 
 Toxic team behavior is an issue nearly all IT leaders will encounter at some point during their careers, most likely more than once and in various guises. Here’s a rundown of seven common types of toxic team behavior and how to root each out before serious, long-term damage results.
 
-1. Rudeness
+**1. Rudeness**
+
 Rude behavior can instantly fracture a team, destroying collaboration, delaying projects, and threatening members’ sense of psychological safety, says Binyamin Cooper, a post-doctoral research fellow at Carnegie Mellon University’s Tepper School of Business. “Rudeness includes behaviors such as belittling and demeaning comments, insults, eye-rolling, taking credit for someone’s work, or excluding someone from office camaraderie,” he notes.
 
 Rudeness impacts individuals beyond the instigator’s direct targets, potentially contaminating an entire team or department. “Once rude behavior happens, it’s easy for negative thoughts to seep into people’s heads and stay there, translating into negative behavior,” Cooper says.
