@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: In Popular Media
 
 # Listing view
 view: compact
