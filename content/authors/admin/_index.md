@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Binyamin (Benny) Cooper
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Post-Doctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Tepper School of Business, Carnegie Mellon University
+    url: 'https://www.cmu.edu/tepper/faculty-and-research/post-doctoral/cooper-binyamin.html'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research explores how communicators and receivers navigate difficult conversations in the workplace.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Low-Intensity Workplace mistreatment
+  - Honesty
+  - Resilience
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Management
+      institution: University of Florida
+      year: 2020
+    - course: M.A. in Social-Organizational Psychology
+      institution: Bar-Ilan University, Israel
+      year: 2014
+    - course: B.A. in Psychology
+      institution: Hebrew University of Jerusalem, Israel
+      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,21 +40,24 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'bcoop@cmu.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/BinyaminCooper
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.com/citations?hl=en&pli=1&user=UZHJH_sAAAA
+  - icon: researchgate
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.researchgate.net/profile/Binyamin_Cooper
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/binyamin-cooper-0498bb56/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -68,6 +71,8 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an organizational behavior researcher, and currently a Post-Doctoral Fellow at the Carnegie Mellon University Tepper School of Business. The main objective of my research and teaching is to promote growth in organizations through adaptive interpersonal communication. Through my research, I aim to elucidate novel associations and interventions within the **workplace mistreatment**, **honesty** and **resilience** literatures, with a particular interest in when and how specific forms of communication (verbal and/or nonverbal) can be harmful or helpful in navigating difficult conversations. Through my teaching, I seek to inspire students to become leaders amongst their peers, who skillfully use their voice to create a positive impact on their colleagues, direct reports and organizational teams. As a result, through both my research and teaching, I hope to influence rising generations to be better and more supportive leaders. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My work has been published in Management journals such as *Journal of Applied Psychology*, and is currently under revision at the *Academy of Management Annals*, and *Journal of Applied Psychology*. 
+
+Prior to starting my Ph.D., I worked as an organizational consultant for two years in Israel serving clients in the high-tech, healthcare, auto and financial industries. 
