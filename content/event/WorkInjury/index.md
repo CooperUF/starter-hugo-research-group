@@ -1,5 +1,5 @@
 ---
-title: Workplace injury's impact on post-return work functioning: The role of
+title: Workplace injury's impact on post-return work functioning - The role of
 cognition and emotion
 
 summary:
