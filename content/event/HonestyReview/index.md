@@ -3,7 +3,7 @@ title: Honesty in Organizations
 
 summary:
 - Honesty
-date: "2023-01-18"
+# date: "2023-01-18"
 tags: ["Honesty"]
 
 # Optional external URL for project (replaces project detail page).
