@@ -11,7 +11,7 @@ role: Post-Doctoral Research Fellow
 # Organizations/Affiliations
 organizations:
   - name: Tepper School of Business, Carnegie Mellon University
-    url: 'https://www.cmu.edu/tepper/faculty-and-research/post-doctoral/cooper-binyamin.html'
+    url: https://www.cmu.edu/tepper/faculty-and-research/post-doctoral/cooper-binyamin.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research explores how communicators and receivers navigate difficult conversations in the workplace.
@@ -57,7 +57,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: files/resume.pdf
+   link: files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
