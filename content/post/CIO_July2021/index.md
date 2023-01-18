@@ -20,4 +20,4 @@ Rudeness impacts individuals beyond the instigator’s direct targets, potential
 
 Individuals harboring an inclination for rude behavior can often be detected during the hiring process. “Interviewing job candidates using structured interviews for civil behavior may reveal an indication for a tendency to behave rudely,” Cooper suggests. “Additionally, prioritizing an organizational climate of civility and accountability and offering training on interpersonal communication, especially on stressful interactions, may be helpful in reducing the likelihood of these behaviors.”
 
-Link: [https://www.fastcompany.com/90654144/be-nice-at-work-even-mildly-mean-coworkers-can-ruin-things-for-the-whole-company](https://www.cio.com/article/188986/7-toxic-team-behaviors-it-leaders-must-root-out.html)
+Link: https://www.cio.com/article/188986/7-toxic-team-behaviors-it-leaders-must-root-out.html
