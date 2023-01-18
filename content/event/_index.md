@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Current Priority Projects
 
 # Listing view
 view: compact
