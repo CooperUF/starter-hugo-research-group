@@ -8,7 +8,7 @@ main:
 #    url: tour
 #    weight: 10
   - name: About Me
-    url: author
+    url: author/binyamin-benny-cooper/
     weight: 10
   - name: Media
     url: post
