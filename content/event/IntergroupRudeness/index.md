@@ -3,7 +3,7 @@ title: Incivility Divides and Hurts
 
 summary:
 - Workplace mistreatment
-# date: "2021-10-01T00:00:00Z"
+date: "2023-01-01"
 tags: ["Workplace mistreatment"]
 
 # Optional external URL for project (replaces project detail page).
