@@ -27,7 +27,7 @@ content:
   coordinates:
     latitude: '40.44524'
     longitude: '-79.94538'
-  directions: Enter Building and take elevators to Floor 5, exit and turn right and head to Office 5238
+  directions: Enter building and take elevators to Floor 5, exit and turn right, then head to Office 5238
 #  office_hours:
 #    - 'Monday 10:00 to 13:00'
 #    - 'Wednesday 09:00 to 10:00'
