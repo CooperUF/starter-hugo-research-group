@@ -1,5 +1,5 @@
 ---
-title: Be nice at work: Even mildly mean coworkers can ruin things for the whole company
+title: Be nice at work - Even mildly mean coworkers can ruin things for the whole company
 date: 2021-07-09
 image:
   focal_point: 'top'
