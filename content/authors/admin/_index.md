@@ -73,6 +73,6 @@ highlight_name: false
 
 I am an organizational behavior researcher, and currently a Post-Doctoral Research Fellow at the Carnegie Mellon University Tepper School of Business. The main objective of my research and teaching is to promote growth in organizations through adaptive interpersonal communication. Through my research, I aim to elucidate novel associations and interventions within the **workplace mistreatment**, **honesty** and **resilience** literatures, with a particular interest in when and how specific forms of communication (verbal and/or nonverbal) can be harmful or helpful in navigating difficult conversations. Through my teaching, I seek to inspire students to become leaders amongst their peers, who skillfully use their voice to create a positive impact on their colleagues, direct reports and organizational teams. As a result, through both my research and teaching, I hope to influence rising generations to be better and more supportive leaders. 
 
-My work has been published in Management journals such as *Journal of Applied Psychology*, and is currently under revision at the *Academy of Management Annals*, and *Journal of Applied Psychology*. 
+My work has been published in Management journals such as *Journal of Applied Psychology* and the *Academy of Management Annals*, and *Journal of Applied Psychology*. 
 
-Prior to starting my Ph.D., I worked as an organizational consultant for two years in Israel serving clients in the high-tech, healthcare, auto and financial industries. 
+Prior to starting my Ph.D., I worked as an organizational analyst for two years in Israel serving clients in the high-tech, healthcare, auto and financial industries. 
