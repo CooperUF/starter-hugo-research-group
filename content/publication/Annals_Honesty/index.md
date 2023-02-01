@@ -30,9 +30,7 @@ publication: In *Academy of Management Annals*
 
 abstract: While people across the world value honesty, it is undeniable that it can sometimes pay to be dishonest. This tension leads people to engage in complex behaviors that stretch the boundaries of honesty. Such behaviors include strategically avoiding information, dodging questions, omitting information, and making true but misleading statements. Though not lies per se, these are nonetheless deviations from honesty that have serious interpersonal, organizational, and societal costs. Based on a systematic review of 169 empirical research articles in the fields of management, organizational behavior, applied psychology, and business ethics, we develop a new multidimensional framework of honesty that highlights how honesty encompasses more than the absence of lies—it has relational elements (e.g., fostering an accurate understanding in others through what we disclose and how we communicate) and intellectual elements (e.g., evaluating information for accuracy, searching for accurate information, and updating our beliefs accordingly). By acknowledging that honesty is not limited to the moment when a person utters a clear lie or a full truth, and that there are multiple stages to enacting honesty, we emphasize the shared responsibility that all parties involved in communication have for seeking out and communicating truthful information.
 
-The article is forthcoming in ***Academy of Management Annals***, 17(2)
-
-# Summary. An optional shortened abstract.
+Summary. The article is forthcoming in ***Academy of Management Annals***, 17(2).
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 # tags: []
