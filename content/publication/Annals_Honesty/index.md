@@ -1,5 +1,5 @@
 ---
-title: "Honest Behavior: Truth-Seeking, Belief-Speaking, and Fostering Understanding of the Truth in Others. "
+title: "Honest Behavior: Truth-Seeking, Belief-Speaking, and Fostering Understanding of the Truth in Others"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
