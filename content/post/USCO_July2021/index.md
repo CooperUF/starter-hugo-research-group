@@ -1,5 +1,5 @@
 ---
-title: Is Bad Behavior Ruining Your Business? How to Bring Civility Back to Work
+title: Is Bad Behavior **Ruining Your Business**? How to Bring Civility Back to Work
 date: 2021-07-28
 image:
   focal_point: 'top'
