@@ -16,8 +16,7 @@ Other experiments in the study revealed how rudeness can interact with anchoring
 Imagine a business owner or manager working to forecast company performance six months out, Cooper suggested. It would be typical to first look at current performance, then make assumptions about the future. But if the person experiences or witnesses a rude event before making the prediction, they’re significantly more likely to base it on current performance and ignore other potentially important factors, he said.
 
 **How to foster civility**
-One way to steer clear of incivility is to weed out rude people in the hiring process, Cooper said, but he added that there’s little evidence to suggest such a strategy is effective. Instead, he and other researchers stress that employers need to be both proactive and reactive to prevent and respond to incivility.
 
-“Employers should ensure there are strong norms for respect and civility in the workplace,” said Lauren Locklear, a researcher at the University of Central Florida and a colleague of Shannon Taylor. “Having a zero-tolerance policy for these rude behaviors is key to stopping mistreatment in its tracks."
+One way to steer clear of incivility is to weed out rude people in the hiring process, Cooper said, but he added that there’s little evidence to suggest such a strategy is effective. Instead, he and other researchers stress that employers need to be both proactive and reactive to prevent and respond to incivility.
 
 Link: https://www.uschamber.com/co/start/strategy/how-rudeness-can-ruin-your-workplace
