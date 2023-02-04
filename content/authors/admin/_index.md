@@ -47,9 +47,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&pli=1&user=UZHJH_sAAAA
-  - icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Binyamin_Cooper
+#  - icon: researchgate
+#    icon_pack: fab
+#    link: https://www.researchgate.net/profile/Binyamin_Cooper
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/binyamin-cooper-0498bb56/
