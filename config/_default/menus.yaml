@@ -10,14 +10,14 @@ main:
   - name: About Me
     url: author/binyamin-benny-cooper/
     weight: 10
-  - name: In Popular Media
-    url: post
-    weight: 20
-  - name: Priority Projects
-    url: event
-    weight: 30
   - name: Publications
     url: publication
+    weight: 20
+  - name: In Popular Media
+    url: post
+    weight: 30
+  - name: Priority Projects
+    url: event
     weight: 40
   - name: Contact
     url: contact
