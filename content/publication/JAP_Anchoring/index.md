@@ -26,7 +26,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Applied Psychology*
-publication_short: In *JAP*
+publication_short: In *Journal of Applied Psychology*
 
 abstract: In this article we explore the effect of encounters with rudeness on the tendency to engage in anchoring, one of the most robust and widespread cognitive biases. Integrating the self-immersion framework with the selective accessibility model (SAM), we propose that rudeness-induced negative arousal will narrow individuals’ perspectives in a way that will make anchoring more likely. Additionally, we posit that perspective taking and information elaboration will attenuate the effect of rudeness on both negative arousal and subsequent anchoring. Across four experimental studies, we test the impact of exposure to rudeness on anchoring as manifested in a variety of tasks (medical diagnosis, judgment tasks, and negotiation). In a pilot study, we find that rudeness is associated with anchoring among a group of medical students making a medical diagnosis. In Study 1, we show that negative arousal mediates the effect of rudeness on anchoring among medical residents treating a patient, and that perspective taking moderates these effects. Study 2 replicates the results of Study 1 using a common anchoring task, and Study 3 builds on these results by replicating them in a negotiation setting and testing information elaboration as a boundary condition. Across the four studies, we find consistent evidence that rudeness-induced negative arousal leads to anchoring, and that these effects can be mitigated by perspective taking and information elaboration.
 
