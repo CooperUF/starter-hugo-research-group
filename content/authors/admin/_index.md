@@ -10,8 +10,8 @@ role: Post-Doctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: Tepper School of Business, Carnegie Mellon University
-    url: https://www.cmu.edu/tepper/faculty-and-research/post-doctoral/cooper-binyamin.html
+  - name: Earl G. Graves School of Business and Management, Morgan State University
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research explores how communicators and receivers navigate difficult conversations in the workplace.
@@ -71,7 +71,7 @@ highlight_name: false
 #  - Researchers
 ---
 
-I am an organizational behavior researcher, and currently a Post-Doctoral Research Fellow at the Carnegie Mellon University Tepper School of Business. The main objective of my research and teaching is to promote growth in organizations through adaptive interpersonal communication. Through my research, I aim to elucidate novel associations and interventions within the **workplace mistreatment**, **honesty** and **resilience** literatures, with a particular interest in when and how specific forms of communication (verbal and/or nonverbal) can be harmful or helpful in navigating difficult conversations. Through my teaching, I seek to inspire students to become leaders amongst their peers, who skillfully use their voice to create a positive impact on their colleagues, direct reports and organizational teams. As a result, through both my research and teaching, I hope to influence rising generations to be better and more supportive leaders. 
+I am an organizational behavior researcher, and currently an Assistant Professor Fellow at the Morgan State University Graves School of Business and Management. The main objective of my research and teaching is to promote growth in organizations through adaptive interpersonal communication. Through my research, I aim to elucidate novel associations and interventions within the **workplace mistreatment**, **honesty** and **resilience** literatures, with a particular interest in when and how specific forms of communication (verbal and/or nonverbal) can be harmful or helpful in navigating difficult conversations. Through my teaching, I seek to inspire students to become leaders amongst their peers, who skillfully use their voice to create a positive impact on their colleagues, direct reports and organizational teams. As a result, through both my research and teaching, I hope to influence rising generations to be better and more supportive leaders. 
 
 My work has been published in Management journals such as *Journal of Applied Psychology* and the *Academy of Management Annals*. 
 
