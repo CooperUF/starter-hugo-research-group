@@ -15,19 +15,19 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: bcoop@cmu.edu
+  email: binyamin.cooper@morgan.edu
 #  phone: 888 888 88 88
   address:
-    street: 4765 Forbes Ave
-    city: Pittsburgh
-    region: PA
-    postcode: '15213'
+    street: 4100 Hillen Rd
+    city: Baltimore
+    region: MD
+    postcode: '21218'
     country: United States
     country_code: US
   coordinates:
-    latitude: '40.44524'
-    longitude: '-79.94538'
-  directions: Enter building and take elevators to Floor 5, exit and turn right, then head to Office 5238
+    latitude: '39.340891'
+    longitude: '-76.588364'
+  directions: Enter building and take elevators to Floor 6, exit and turn right, then right again and head to Office 612
 #  office_hours:
 #    - 'Monday 10:00 to 13:00'
 #    - 'Wednesday 09:00 to 10:00'
