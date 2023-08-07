@@ -6,7 +6,7 @@ title: Binyamin (Benny) Cooper
 superuser: true
 
 # Role/position
-role: Post-Doctoral Research Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
