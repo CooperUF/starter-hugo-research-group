@@ -19,6 +19,6 @@ design:
 
 <br>
 
-I am an experienced quantitative organizational researcher with 10+ years of experience, primarily focused on issues that affect how individuals and groups perceive, process and effectively navigate challenging interpersonal conversations. My interests lie in experimental research design, data analysis, quantitative methods, with the goal of promoting adaptive coping in the face of organizational adversity and a more resilient workforce. 
+I am a behavioral scientist and UX researcher specializing in how communication, social interaction, and psychological safety shape decision-making and collaboration in digital environments. My work combines qualitative research, experiments, and large-scale survey analysis to uncover actionable insights that improve products and user experiences.
 
-Prior to starting my Ph.D., I worked as an organizational analyst for two years in Israel serving clients in the high-tech, healthcare, auto and financial industries.
+My research has been published in leading journals in organizational behavior and psychology, and my work focuses on translating behavioral science into practical product decisions.
