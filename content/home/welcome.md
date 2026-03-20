@@ -19,6 +19,6 @@ design:
 
 <br>
 
-I am a behavioral scientist and UX researcher specializing in how communication, social interaction, and psychological safety shape decision-making and collaboration in digital environments. My work combines qualitative research, experiments, and large-scale survey analysis to uncover actionable insights that improve products and user experiences.
+I am a behavioral scientist and mixed-methods researcher specializing in how communication, social interaction, and psychological safety shape decision-making and collaboration in digital environments. My work combines qualitative research, experiments, and large-scale survey analysis to uncover actionable insights that improve products and user experiences.
 
 My research has been published in leading journals in organizational behavior and psychology, and my work focuses on translating behavioral science into practical product decisions.
